@@ -18,7 +18,7 @@ var lose = document.getElementById("loss");
 
 function start(){
    var i;
-i = "0.9s"; userInfo.style.display="none";
+i = "1.3s"; userInfo.style.display="none";
     lose.style.display="none";
     game.style.opacity= "1";
     game.style.display="block";
